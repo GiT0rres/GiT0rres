@@ -2,8 +2,8 @@
  <img 
   src="https://github.com/GiT0rres/GiT0rres/blob/main/header.jpg?raw=true" 
   alt="Sanrio Café" 
-  width="90" 
-  height="400" 
+  width="750" 
+  height="700" 
   style="object-fit: cover; display: block; margin: 0 auto;" />
   <div align="center">
     <br>
