@@ -1,7 +1,6 @@
 <div style="display: inline-block;">
  <div align="center">
-  <img src="https://github.com/GiT0rres/GiT0rres/blob/main/header.jpg?raw=true" 
- alt="Sanrio Café" width="900" height="auto" style="max-width: 100%; height: auto;" />
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d340830d41bdc9520b842ac81518ee0bdafc53381484cf285ca935cf97fd831d/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3530302673697a653d32322670617573653d3130303026636f6c6f723d366136306530266c6566743d74727565266c6566743d747275652672616e646f6d3d66616c73652677696474683d353030266c696e65733d48692b6d792b6e616d652b69732b47696f76616e6e61213b492b616d2b31372b79656172732b6f6c643b57656c636f6d652b746f2b6d792b70726f66696c65212bf09f9884" class="">
 </div>
 </div>
 <img width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=GiT0rres&show_icons=true&theme=dracula">
