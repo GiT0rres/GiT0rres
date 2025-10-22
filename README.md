@@ -1,10 +1,9 @@
 <div style="display: inline-block;">
-  <img src="https://github.com/GiT0rres/GiT0rres/blob/main/Sanrio%20%E2%99%A1.jpg?raw=true" alt="Sanrio Café" width="700" />
+  <img src=https://github.com/GiT0rres/GiT0rres/blob/main/header.jpg?raw=true" alt="Florzinhas" width="900" />
   <div align="center">
     <br>
-  <h1>Olá, eu sou a Gi Torres! 💖</h1>
-  <p>Bem-vindo(a) ao meu perfil ✨</p>
-
+  <h1>Olá, eu sou a Gi Torres! </h1>
+  <p>Bem-vindo(a) ao meu perfil </p>
 </div>
   <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6a60e0&left=true&left=true&random=false&width=500&lines=Hi+my+name+is+Giovanna!;I+am+17+years+old;Welcome+to+my+profile!+😄">
 <br>
