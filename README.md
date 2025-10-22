@@ -7,9 +7,7 @@
 <img width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=GiT0rres&show_icons=true&theme=dracula">
   <img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiT0rres&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=1E90FF"/>
 </div>
-<br>
 <div>
-<br>
 Aprendendo no momento:
 </div>
 <br>
