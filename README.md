@@ -5,9 +5,7 @@
   width="00" 
     height="800" 
    />
-</div>
-  style="object-fit: cover; display: block; margin: 0 auto;" />
-  <div align="center">
+</di>  <div align="center">
     <br>
   <h1>Olá, eu sou a Gi Torres! </h1>
   <p>Bem-vindo(a) ao meu perfil </p>
