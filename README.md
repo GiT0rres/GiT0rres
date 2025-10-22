@@ -2,9 +2,9 @@
  <img 
   src="https://github.com/GiT0rres/GiT0rres/blob/main/header.jpg?raw=true" 
   alt="Sanrio Café"
-  width="900" 
-    height="220" 
-    style="object-fit: cover; border-radius: 10px;" />
+  width="00" 
+    height="800" 
+   />
 </div>
   style="object-fit: cover; display: block; margin: 0 auto;" />
   <div align="center">
