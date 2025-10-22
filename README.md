@@ -4,7 +4,7 @@
  alt="Sanrio Café" width="900" height="auto" style="max-width: 100%; height: auto;" />
 </div>
 </div>
-  <img align="left" src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libel+Suit&size=15&pause=1000&color=A37BF7&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Giovanna%2C+tenho+17+anos.;Sou+aluna+da+Etec+da+Zona+Leste.+No+curso+Desenvolvimentos+de+Sistemas+-+AMS." alt="Typing SVG" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libel+Suit&size=24&pause=1000&color=A37BF7&center=true&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Giovanna%2C+tenho+17+anos.;Sou+aluna+da+Etec+da+Zona+Leste.+No+curso+Desenvolvimentos+de+Sistemas+-+AMS." alt="Typing SVG" /></a>
 <br>
 <img width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=GiT0rres&show_icons=true&theme=dracula">
   <img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiT0rres&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=1E90FF"/>
