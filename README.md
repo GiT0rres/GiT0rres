@@ -1,5 +1,6 @@
 <div style="display: inline-block;">
-<img width 100% src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers-clan.com%2Fdesktop-wallpapers%2Fhello-kitty-cozy-cafe-autumn-vibes%2F&psig=AOvVaw2wlsmHptAVeredJpb3o4f8&ust=1761239257467000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDl-IOmuJADFQAAAAAdAAAAABAE](https://github.com/GiT0rres/GiT0rres/blob/main/Sanrio%20%E2%99%A1.jpg?raw=true)" >
+<img src="https://github.com/GiT0rres/GiT0rres/blob/main/Sanrio%20%E2%99%A1.jpg?raw=true" alt="Sanrio Café" width="500" />
+
 <br>
   <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6a60e0&left=true&left=true&random=false&width=500&lines=Hi+my+name+is+Giovanna!;I+am+17+years+old;Welcome+to+my+profile!+😄">
 <br>
