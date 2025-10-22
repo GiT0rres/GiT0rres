@@ -1,6 +1,5 @@
 <div style="display: inline-block;">
-<img src="https://github.com/GiT0rres/GiT0rres/blob/main/Sanrio%20%E2%99%A1.jpg?raw=true" alt="Sanrio Café" width="500" />
-
+<img src="https://github.com/GiT0rres/GiT0rres/blob/main/header.jpg?raw=true" alt="Sanrio Café" width="500" />
 <br>
   <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6a60e0&left=true&left=true&random=false&width=500&lines=Hi+my+name+is+Giovanna!;I+am+17+years+old;Welcome+to+my+profile!+😄">
 <br>
@@ -35,6 +34,7 @@ IDEs:
 <br> 
 <div>
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6a60e0&center=true&center=true&random=false&width=500&lines=Thank+you+for+your+attention🩵">
+<img src="https://github.com/GiT0rres/GiT0rres/blob/main/Sanrio%20%E2%99%A1.jpg?raw=true" alt="Sanrio Café" width="500" />
 <img height=30% width=30% align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVxemZ6MmRicWFmOWhlcXZlcnFwM3I1NmgxcGl0enVmMW1nejZ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2285f5&section=footer"/>
 </div>
