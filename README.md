@@ -1,6 +1,6 @@
 <div style="display: inline-block;">
  <img 
-  src="https://github.com/GiT0rres/GiT0rres/blob/main/Sanrio%20%E2%99%A1.jpg?raw=true" 
+  src="https://github.com/GiT0rres/GiT0rres/blob/main/header.jpg?raw=true" 
   alt="Sanrio Café" 
   width="800" 
   height="200" 
