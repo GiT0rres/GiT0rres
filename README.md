@@ -1,11 +1,9 @@
 <div style="display: inline-block;">
- <img 
-  src="https://github.com/GiT0rres/GiT0rres/blob/main/header.jpg?raw=true" 
- alt="Sanrio Café" 
-  width="800" 
-  height="200" 
-  style="object-fit: cover; display: block; margin: 0 auto;" />
-</di>  <div align="center">
+ <div align="center">
+  <img src="https://github.com/GiT0rres/GiT0rres/blob/main/header.jpg?raw=true" 
+ alt="Sanrio Café" width="900" height="auto" style="max-width: 100%; height: auto;" />
+</div>
+ <div align="center">
     <br>
   <h1>Olá, eu sou a Gi Torres! </h1>
   <p>Bem-vindo(a) ao meu perfil </p>
