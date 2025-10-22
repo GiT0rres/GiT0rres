@@ -1,5 +1,10 @@
 <div style="display: inline-block;">
-  <img src=https://github.com/GiT0rres/GiT0rres/blob/main/header.jpg?raw=true" alt="Florzinhas" width="900" />
+ <img 
+  src="https://github.com/GiT0rres/GiT0rres/blob/main/Sanrio%20%E2%99%A1.jpg?raw=true" 
+  alt="Sanrio Café" 
+  width="800" 
+  height="200" 
+  style="object-fit: cover; display: block; margin: 0 auto;" />
   <div align="center">
     <br>
   <h1>Olá, eu sou a Gi Torres! </h1>
