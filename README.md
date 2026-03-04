@@ -13,7 +13,7 @@ I'm a developer in my final year of technical high school. I love building logic
 ### 🛠 Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react, rust, laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,rust,laravel" />
 </p>
 
 ---
